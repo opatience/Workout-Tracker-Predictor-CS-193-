@@ -1,5 +1,17 @@
 ## Workout Predictor and Planner
 
+# Goal
+Build a regression model that can moderately accurately suggest future workout reps/weight based on predictive analysis.
+
+# Scope
+Make a functional regression model to perform predictions, as well as a basic frontend that can send data to my SQL db
+
+# Future Plans
+* Find a large dataset for workouts
+* Train a neural network to predict future progress
+* Add the ability to import data from other workout sites
+
+
 # Tech Stack
 - Languages:
   1. JavaScript(React)
