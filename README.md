@@ -1,18 +1,18 @@
-## Workout Predictor and Planner
+# Workout Predictor and Planner
 
-# Goal
+## Goal
 Build a regression model that can moderately accurately suggest future workout reps/weight based on predictive analysis.
 
-# Scope
+## Scope
 Make a functional regression model to perform predictions, as well as a basic frontend that can send data to my SQL db
 
-# Future Plans
+## Future Plans
 * Find a large dataset for workouts
 * Train a neural network to predict future progress
 * Add the ability to import data from other workout sites
 
 
-# Tech Stack
+## Tech Stack
 - Languages:
   1. JavaScript(React)
   2. Python(Flask)
@@ -30,7 +30,7 @@ Make a functional regression model to perform predictions, as well as a basic fr
 - Storage - Supabase DB storing exercises with dates, sets, weights, and reps.
 - Data Source - My local Strong (workout planner I currently use) history, manually exported as a CSV and read with Pandas
 
-# Milestone List
+## Milestone List
 1. Make a non-interactive frontend
 2. Establish SQL schema, and tables
 3. Establish frontend writes to the tables, as well as input validation
