@@ -1,4 +1,4 @@
-## FILL IN TITLE
+## Workout Predictor and Planner
 
 # Tech Stack
 - Languages:
